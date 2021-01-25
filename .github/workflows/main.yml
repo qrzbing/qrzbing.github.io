@@ -27,7 +27,7 @@ jobs:
 
       # 生成静态文件
       - name: Build
-        run: yarn && yarn run build && echo 'www.qrzbing.cn' > docs/.vuepress/dist/CNAME
+        run: yarn && yarn run build && echo 'www.qrzbing.cn' > dist/CNAME
 
       # 部署到 GitHub Pages
       - name: Deploy
@@ -35,4 +35,4 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: docs/.vuepress/dist
+          FOLDER: dist
