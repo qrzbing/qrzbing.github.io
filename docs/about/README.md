@@ -7,18 +7,18 @@ info: 'Student at Hogwarts School'
 interests: 'Interests: Quidditch and Wizard chess.'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
+  link: https://github.com/qrzbing
 - title: linkedin
   link: https://www.linkedin.com
 - title: instagram
   link: https://www.instagram.com
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:qrzbing[at]nuaa.edu.cn'
 actions:
 - text: Projects
   link: /projects/
 - text: Blog
-  link: https://github.com/mtobeiyf
+  link: https://github.com/qrzbing
 - text: CV
   link: /article/
 footer: Made with ♥ by Fing. Powered by VuePress

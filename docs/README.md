@@ -25,9 +25,9 @@ email: qrzbing#nuaa.edu.cn
 
 ## About Me
 
-I attended [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/) to study Cyber Security, supervised by **Prof. Hao Han**.
+I attended [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/) to study Cyber Security, supervised by [**Prof. Hao Han**](http://gsmis.nuaa.edu.cn/gmis/xkjsb/yjsdsfc.aspx?id=70206752).
 
-My interests include: binary analysis, backend development and system security.
+My interests include: system security.
 
 
 ## News
@@ -37,21 +37,21 @@ My interests include: binary analysis, backend development and system security.
 
 ## Education & Experiences
 
-- [Nanjing University of Aeronautics & Astronautics](http://www.nuaa.edu.cn/) (NUAA, 2020.09 - Current)
+- Nanjing University of Aeronautics & Astronautics (NUAA, 2020.09 - Current)
   - Master Candidate of Cyber Security
   - Research focuses on System Security
-  - Supervised by Prof. [Han Hao](http://gsmis.nuaa.edu.cn/gmis/xkjsb/yjsdsfc.aspx?id=70206752), [College of Computer Science and Technology](http://cs.nuaa.edu.cn/)
-- [Nanjing University of Aeronautics & Astronautics](http://www.nuaa.edu.cn/) (NUAA, 2016.09 - 2020.06)
+  - Supervised by Prof. Han Hao, College of Computer Science and Technology
+- Nanjing University of Aeronautics & Astronautics (NUAA, 2016.09 - 2020.06)
   - B.S. in Information Security
-  - Supervised by Prof. [Han Hao](http://gsmis.nuaa.edu.cn/gmis/xkjsb/yjsdsfc.aspx?id=70206752), [College of Computer Science and Technology](http://cs.nuaa.edu.cn/)
+  - Supervised by Prof. Han Hao, College of Computer Science and Technology
 
 ## Teaching
 
 ### Experience
 
-- TA for Computer Organization and Design, NUAA, 2018 Spring
-  - Lecturer for practicum part of the course
-  - Advised by Prof. Chen Dan & Prof. [Li bohan](http://gsmis.nuaa.edu.cn/gmis/xkjsb/yjsdsfc.aspx?id=16005)
 - TA for Computer Organization and Design, NUAA, 2019 Spring
   - Lecturer for practicum part of the course
-  - Advised by Prof. Chen Dan & Prof. [Li bohan](http://gsmis.nuaa.edu.cn/gmis/xkjsb/yjsdsfc.aspx?id=16005)
+  - Advised by Prof. Chen Dan & Prof. Li bohan
+- TA for Computer Organization and Design, NUAA, 2020 Spring
+  - Lecturer for practicum part of the course
+  - Advised by Prof. Chen Dan & Prof. Li bohan

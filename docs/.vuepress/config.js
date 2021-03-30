@@ -9,7 +9,7 @@ module.exports = {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "Blog", link: "https://www.qrzbing.cn/blog" },
+      { text: "Blog", link: "https://blog.qrzbing.cn/" },
       // { text: "About", link: "/about/" },
       // { text: "Projects", link: "/projects/" },
       // { text: "Guide", link: "/guide/" },
